@@ -1,0 +1,1 @@
+The Antminer U3 is a neat USB connectable mining device. Bitmain released the Antminer U3 at the end of March 2015 equipped with 4 Bitcoin mining chip of BM1382. It is the first product to utilize a 28nm mining chip, the hash rate of a single unit can reach up to 63GH/s while consuming only 63w.
