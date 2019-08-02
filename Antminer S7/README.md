@@ -3,6 +3,3 @@ Antminer S7 is the best bitcoin miners in the bitcoin mininig market now. It’s
 The submodels of Antminer S7 series bitcoin miner include: Antminer S7, Antminer S7-LN.
 
 
-<h3>Firmware</h3>
-
-<b>S7-20160523-700M-1fan-6000.tar.gz: </b>https://drive.google.com/file/d/0B-_jcpU1s5dgZWk0Z2NRckY3bVE/view?usp=sharing
