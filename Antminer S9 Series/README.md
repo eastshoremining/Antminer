@@ -4,6 +4,8 @@ The submodels of AntMiner S9 series include: Antminer S9, Antminer S9i, Antminer
 
 <h3>Firmware</h3>
 
+<b>Antminer-S9-201607131442-11.85T-550M-security.tar.gz: </b>https://drive.google.com/file/d/11tvdGtVQTbdarXFYiFYR7DutHHpWGfIh/view?usp=sharing
+
 <b>Antminer-S9-all-201610270319-autofreq-user.tar.gz: </b>https://drive.google.com/file/d/0B-_jcpU1s5dgalh0NkpZTGpuR2s/view?usp=sharing
 
 <b>Antminer-S9-all-201611081143-autofreq-user.tar.gz: </b>https://drive.google.com/file/d/1dC9wd76gcpp4ZtSezdnhKlBL7d5sXywB/view?usp=sharing
