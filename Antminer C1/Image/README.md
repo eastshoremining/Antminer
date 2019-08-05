@@ -7,3 +7,5 @@ In crypto mining, a system image is a serialized copy of the entire state of a m
 <b>C1_STOCK-2014-11-11: </b>https://drive.google.com/file/d/1xfEE4X-ckjx66dR5z5emgQOuiPrEkEdS/view?usp=sharing
 
 <b>SD-C1-20141217.tar.gz: </b> download above
+
+<b>C1 Nov 26 image.imgc</b>: download above(Tool: HDDRawCopy1.10Setup.exe)
